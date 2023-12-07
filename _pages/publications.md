@@ -8,6 +8,7 @@ author_profile: true
 ### 2023
 
 * Daniel Cheng, **Haoxin Li**, Phillip Keung, Jungo Kasai, Noah A. Smith
+<br>
 <span style="color:navy">Exploring Sequence Length Redundancies in Generative Models</span>  
 **To Be Submitted**
 
