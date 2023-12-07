@@ -5,12 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### 2023
 
-{% include base_path %}
+* Daniel Cheng, **Haoxin Li**, Phillip Keung, Jungo Kasai, Noah A. Smith
+<span style="color:navy">Exploring Sequence Length Redundancies in Generative Models</span>  
+**To Be Submitted**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Haoxin Li**, Phillip Keung, Daniel Cheng, Jungo Kasai, Noah A. Smith            
+<span style="color:navy">ACID: Abstractive, Content-based IDs for Document Retrieval with Language Models</span>  
+**Preprint**          
+[Paper](https://arxiv.org/abs/2311.08593){: .btn .btn--info .btn--small}
+
+### 2022
+
+* **Haoxin Li**, Phillip Keung, Daniel Cheng, Jungo Kasai, Noah A. Smith               
+<span style="color:navy">NarrowBERT: Accelerating Masked Language Model Pretraining and Inference</span>              
+**ACL 2023**                                       
+[Paper](https://arxiv.org/abs/2301.04761){: .btn .btn--info .btn--small}   
+  

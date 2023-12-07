@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi,"
+title: "Alan (Haoxin) Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alan or Haoxin and currently a student of Bachelor's/Master's combined program at [CSE](https://www.cs.washington.edu/), [University of Washington](https://www.washington.edu/). 
+Hi, I'm Alan and currently a student in the Combined Bachelor's/Master's (BS/MS) program at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), [University of Washington](https://www.washington.edu/). 
 
 I have worked on NLP research since early 2022 feel honored to be working with [Prof. Noah A. Smith](https://nasmith.github.io/), [Jungo Kasai](https://jungokasai.github.io/), and [Mr. Phillip Keung](https://scholar.google.com/citations?user=VdI1yDcAAAAJ&hl=en). 
 

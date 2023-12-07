@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Haoxin (Alan)"
+title                    : "Alan (Haoxin) Li"
 title_separator          : "-"
-name                     : &name "Li Haoxin (Alan)"
+name                     : &name "Alan (Haoxin) Li"
 description              : &description "BS/MS student in UW CSE"
 url                      : https://lihaoxin2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Haoxin (Alan)"
+  name             : "Alan (Haoxin) Li"
   avatar           : "profile.png"
   bio              : "BS/MS Student"
   location         : "Seattle, WA"
