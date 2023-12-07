@@ -5,3 +5,6 @@ main:
 
   - title: "Talk Videos"
     url: /talks/  
+
+  - title: "CV"
+    url: /cv/
