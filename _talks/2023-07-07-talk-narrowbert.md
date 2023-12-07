@@ -1,7 +1,7 @@
 ---
 title: "Conference Presentation on NarrowBERT"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2023-07-07-talk-narrowbert
 venue: "ACL 2023"
 date: 2023-07-07
