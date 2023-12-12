@@ -10,6 +10,7 @@ author_profile: true
 * <span style="color:navy">Exploring Sequence Length Redundancies in Generative Models</span>
 <br>
 Daniel Cheng, **Haoxin Li**, Phillip Keung, Jungo Kasai, Noah A. Smith
+<br>
 **To Be Submitted**
 
 * <span style="color:navy">ACID: Abstractive, Content-based IDs for Document Retrieval with Language Models</span>
