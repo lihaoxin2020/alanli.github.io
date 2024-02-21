@@ -16,8 +16,8 @@ My past research experiences mainly cover efficiency and generative retrieval. H
 
 I'm currently applying for PhD program starting Fall 2024. Feel free to reach out! 
 
-
+\
 **Event**
 
-[07.07.2023] Present NarrowBERT at ACL 2023. [Video Talk](https://lihaoxin2020.github.io/talks/)
+[07.07.2023] Present [NarrowBERT](https://arxiv.org/abs/2301.04761) at ACL 2023. [Video Talk](https://lihaoxin2020.github.io/talks/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JxWmLIPPRIg?si=dP1iuvZGVznbkSJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
