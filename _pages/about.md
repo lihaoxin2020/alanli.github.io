@@ -15,3 +15,9 @@ I'm fortunate to be a part of the ARK Lab since early 2022, working with [Prof. 
 My past research experiences mainly cover efficiency and generative retrieval. Here is my [CV](https://lihaoxin2020.github.io/files/cv_12.5.pdf). 
 
 I'm currently applying for PhD program starting Fall 2024. Feel free to reach out! 
+
+
+**Event**
+
+[07.07.2023] Present NarrowBERT at ACL 2023. [Video Talk](https://lihaoxin2020.github.io/talks/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JxWmLIPPRIg?si=dP1iuvZGVznbkSJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
