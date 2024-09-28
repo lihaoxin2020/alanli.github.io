@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alan (Haoxin) Li"
+title                    : "Alan Li"
 title_separator          : "-"
 name                     : &name "Alan (Haoxin) Li"
-description              : &description "BS/MS student in UW CSE"
+description              : &description "PhD Student at YaleNLP"
 url                      : https://lihaoxin2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lihaoxin2020.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alan (Haoxin) Li"
   avatar           : "IMG_9099.jpg"
-  bio              : "BS/MS Combined Student"
-  location         : "Seattle, WA"
+  bio              : "PhD Student"
+  location         : "New Haven, CT"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kj7i2uEAAAAJ&hl=en&oi=sra"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/alanli2020"
   vine             :
   weibo            :
   xing             :

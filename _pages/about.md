@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Alan and currently a student in the Combined Bachelor's/Master's (BS/MS) program at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), [University of Washington](https://www.washington.edu/). 
+Hi, I'm Alan and currently a PhD student at [Yale NLP](https://yale-nlp.github.io/), working with [Prof. Arman Cohan](https://armancohan.com/).
 
-I'm fortunate to be a part of the ARK Lab since early 2022, working with [Prof. Noah A. Smith](https://nasmith.github.io/), [Jungo Kasai](https://jungokasai.github.io/), and [Mr. Phillip Keung](https://scholar.google.com/citations?user=VdI1yDcAAAAJ&hl=en). 
+Previously, I obtained my Bachelor's and Master's degree from Combined BS/MS program at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), [University of Washington](https://www.washington.edu/). During my time there, I was fortunate to be a part of the ARK Lab, where I worked with [Prof. Noah A. Smith](https://nasmith.github.io/), [Jungo Kasai](https://jungokasai.github.io/), and [Mr. Phillip Keung](https://scholar.google.com/citations?user=VdI1yDcAAAAJ&hl=en). My past research experiences mainly cover efficiency, multimodality, and generative retrieval. Feel free to reach out! 
 
-My past research experiences mainly cover efficiency and generative retrieval. Here is my [CV](https://lihaoxin2020.github.io/files/cv_12.5.pdf). 
-
-I'm currently applying for PhD program starting Fall 2024. Feel free to reach out! 
+I'm also an ex-intern at [Kotoba Tech](https://www.kotoba.tech/), a fast-growing startup focusing on audio AI system in Tokyo, Japan! Check out their exciting demo on [X](https://x.com/kotoba_tech)! 
 
 \
 **Event**
 
-[07.07.2023] Present [NarrowBERT](https://arxiv.org/abs/2301.04761) at ACL 2023. [Video Talk](https://lihaoxin2020.github.io/talks/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JxWmLIPPRIg?si=dP1iuvZGVznbkSJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[09.2024] Start PhD at Yale.  \
+[06.2024] Intern at Kotoba Tech, Tokyo Japan. \
+[07.2023] Present [NarrowBERT](https://arxiv.org/abs/2301.04761) at ACL 2023. [Video Talk](https://lihaoxin2020.github.io/talks/)
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JxWmLIPPRIg?si=dP1iuvZGVznbkSJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
