@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alan Li"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Alan (Haoxin) Li"
+name                     : &name "Alan Li"
 description              : &description "PhD Student at YaleNLP"
 url                      : https://lihaoxin2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alan (Haoxin) Li"
-  avatar           : "IMG_9099.jpg"
+  name             : "Alan Li"
+  avatar           : "avatar_240928.jpg"
   bio              : "PhD Student"
   location         : "New Haven, CT"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kj7i2uEAAAAJ&hl=en&oi=sra"
-  email            : "lihaoxin@cs.washington.edu"
+  email            : "haoxin.li@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/alanli2020"
+  twitter          : "alanli2020"
   vine             :
   weibo            :
   xing             :
